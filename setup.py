@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 config = {
-  "name": "skeleton",
+  "name": "ex47",
   "description": "Description goes here.",
   "author": "Nickunj Chopra (NerdvanaNC)",
-  "url": "the project URL",
-  "download_url": "probably git repo or smth",
+  "url": "https://github.com/NerdvanaNC/ex47",
+  "download_url": "https://github.com/NerdvanaNC/ex47/archive/refs/heads/main.zip",
   "author_email": "nickunjchopra@gmail.com",
   "version": "0.1",
   "install_requires": ['pytest'],
